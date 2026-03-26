@@ -1,4 +1,4 @@
-# Phishing Report – Reward Scam Email
+# Phishing Report 
 
 **Author:** Biruk Mesfin  
 **Date:** March 26, 2026  
