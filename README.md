@@ -13,7 +13,7 @@ This repository contains the analysis of a phishing email categorized as a **Rew
 
 ## Contents
 
-The PDF report (`Phishing_Report_Biruk_Mesfin.pdf`) includes:
+The PDF report  includes:
 
 1. **Executive Summary** – Overview of the reward scam phishing email, potential threats, and malicious tactics.  
 2. **Introduction** – Explanation of phishing attacks and their impact on individuals and organizations.  
