@@ -33,7 +33,7 @@ The PDF report (`Phishing_Report_Biruk_Mesfin.pdf`) includes:
 
 ## Files Included
 
-- `Phishing_Report_Biruk_Mesfin.pdf` – Full report ready for submission.  
+- `Phishing_Report_Biruk_Mesfin.pdf` – Full report.  
 - `README.md` – This file providing context for the repository.
 
 ---
